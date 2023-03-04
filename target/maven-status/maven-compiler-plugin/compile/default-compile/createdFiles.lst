@@ -1,8 +1,0 @@
-com\example\SpringBootElasticsearch\service\ElasticSearchService.class
-com\example\SpringBootElasticsearch\SpringBootElasticsearchApplication.class
-com\example\SpringBootElasticsearch\base\response\ScrollResponse.class
-com\example\SpringBootElasticsearch\conf\ElasticsearchConfig.class
-com\example\SpringBootElasticsearch\base\params\Scroll.class
-com\example\SpringBootElasticsearch\service\impl\ElasticSearchServiceImpl.class
-com\example\SpringBootElasticsearch\controller\ElasticsearchController.class
-com\example\SpringBootElasticsearch\base\response\ScrollResponse$ScrollResponseBuilder.class
